@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/White-fang10/LeetCode/tree/master/0506-relative-ranks) |
+## String
+|  |
+| ------- |
+| [0824-goat-latin](https://github.com/White-fang10/LeetCode/tree/master/0824-goat-latin) |
 <!---LeetCode Topics End-->
